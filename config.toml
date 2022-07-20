@@ -1,0 +1,9 @@
+baseURL = "https://blog.ingolonde.pw/"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Поток сознания"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
